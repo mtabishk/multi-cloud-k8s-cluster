@@ -1,0 +1,11 @@
+AWS/terraform*
+AWS/.terraform
+AWS/terraform.tfstate
+AWS/.DS_Store
+AZURE/terraform*
+AZURE/.terraform
+AZURE/terraform.tfstate
+AZURE/.DS_Stor
+AZURE/terraform.tfstate.backup
+AZURE/.terraform.tfstate.lock.info
+AZURE/terraform.tfstate
